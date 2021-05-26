@@ -358,7 +358,7 @@
 - [ ] Behavior > Events > Overview
 - [ ] Acquisition > Social > Form Submissions
 - [ ] Acquisition > Social > Users Flow
-- [ ] No report contains this information.
+- [x] No report contains this information.
 
 #### Q60.If you want to quickly see what days and times were most popular for visiting your site, what do you do?
 - [ ] Go to Home > Users by time of day (Widget)
