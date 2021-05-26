@@ -397,7 +397,7 @@
 - [ ] signing up for an account after clicking an ad
 
 #### Q65. What is the latest version of the analytics tracking tag?
-- [ ] gtag.js
+- [x] gtag.js
 - [ ] urchin.js
 - [ ] gaq.push and ga.js
 - [ ] analytics.js
